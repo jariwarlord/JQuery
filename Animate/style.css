@@ -1,0 +1,22 @@
+html,body{
+	margin: 0;
+	padding: 0;
+}
+#ustPanel{
+	position: fixed;
+	width: 100%;
+	height: 200px;
+	background: #0d1c1c;
+	color: #FFF;
+	top: -195px;
+	
+}
+#acKapa{
+	position: absolute;
+	right: 20px;
+	bottom: -30px;
+	width: 60px;
+	height: 30px;
+	background: #0d1c1c;
+	text-align: center;
+}
